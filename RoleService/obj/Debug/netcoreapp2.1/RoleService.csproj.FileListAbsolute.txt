@@ -1,0 +1,14 @@
+D:\Projects\VisualStudioProjects\RoleService\bin\Debug\netcoreapp2.1\RoleService.deps.json
+D:\Projects\VisualStudioProjects\RoleService\bin\Debug\netcoreapp2.1\RoleService.runtimeconfig.json
+D:\Projects\VisualStudioProjects\RoleService\bin\Debug\netcoreapp2.1\RoleService.runtimeconfig.dev.json
+D:\Projects\VisualStudioProjects\RoleService\bin\Debug\netcoreapp2.1\RoleService.dll
+D:\Projects\VisualStudioProjects\RoleService\obj\Debug\netcoreapp2.1\RoleService.csproj.CoreCompileInputs.cache
+D:\Projects\VisualStudioProjects\RoleService\obj\Debug\netcoreapp2.1\RoleService.RazorAssemblyInfo.cache
+D:\Projects\VisualStudioProjects\RoleService\obj\Debug\netcoreapp2.1\RoleService.RazorAssemblyInfo.cs
+D:\Projects\VisualStudioProjects\RoleService\obj\Debug\netcoreapp2.1\RoleService.AssemblyInfoInputs.cache
+D:\Projects\VisualStudioProjects\RoleService\obj\Debug\netcoreapp2.1\RoleService.AssemblyInfo.cs
+D:\Projects\VisualStudioProjects\RoleService\obj\Debug\netcoreapp2.1\RoleService.RazorTargetAssemblyInfo.cache
+D:\Projects\VisualStudioProjects\RoleService\bin\Debug\netcoreapp2.1\RoleService.pdb
+D:\Projects\VisualStudioProjects\RoleService\obj\Debug\netcoreapp2.1\RoleService.csprojAssemblyReference.cache
+D:\Projects\VisualStudioProjects\RoleService\obj\Debug\netcoreapp2.1\RoleService.dll
+D:\Projects\VisualStudioProjects\RoleService\obj\Debug\netcoreapp2.1\RoleService.pdb

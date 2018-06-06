@@ -1,0 +1,14 @@
+D:\Projects\VisualStudioProjects\TaskService\bin\Debug\netcoreapp2.1\TaskService.deps.json
+D:\Projects\VisualStudioProjects\TaskService\bin\Debug\netcoreapp2.1\TaskService.runtimeconfig.json
+D:\Projects\VisualStudioProjects\TaskService\bin\Debug\netcoreapp2.1\TaskService.runtimeconfig.dev.json
+D:\Projects\VisualStudioProjects\TaskService\bin\Debug\netcoreapp2.1\TaskService.dll
+D:\Projects\VisualStudioProjects\TaskService\bin\Debug\netcoreapp2.1\TaskService.pdb
+D:\Projects\VisualStudioProjects\TaskService\obj\Debug\netcoreapp2.1\TaskService.csprojAssemblyReference.cache
+D:\Projects\VisualStudioProjects\TaskService\obj\Debug\netcoreapp2.1\TaskService.csproj.CoreCompileInputs.cache
+D:\Projects\VisualStudioProjects\TaskService\obj\Debug\netcoreapp2.1\TaskService.RazorAssemblyInfo.cache
+D:\Projects\VisualStudioProjects\TaskService\obj\Debug\netcoreapp2.1\TaskService.RazorAssemblyInfo.cs
+D:\Projects\VisualStudioProjects\TaskService\obj\Debug\netcoreapp2.1\TaskService.AssemblyInfoInputs.cache
+D:\Projects\VisualStudioProjects\TaskService\obj\Debug\netcoreapp2.1\TaskService.AssemblyInfo.cs
+D:\Projects\VisualStudioProjects\TaskService\obj\Debug\netcoreapp2.1\TaskService.RazorTargetAssemblyInfo.cache
+D:\Projects\VisualStudioProjects\TaskService\obj\Debug\netcoreapp2.1\TaskService.dll
+D:\Projects\VisualStudioProjects\TaskService\obj\Debug\netcoreapp2.1\TaskService.pdb

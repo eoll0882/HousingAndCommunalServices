@@ -1,0 +1,14 @@
+D:\Projects\VisualStudioProjects\EmployeeManagementService\bin\Debug\netcoreapp2.1\EmployeeManagementService.deps.json
+D:\Projects\VisualStudioProjects\EmployeeManagementService\bin\Debug\netcoreapp2.1\EmployeeManagementService.runtimeconfig.json
+D:\Projects\VisualStudioProjects\EmployeeManagementService\bin\Debug\netcoreapp2.1\EmployeeManagementService.runtimeconfig.dev.json
+D:\Projects\VisualStudioProjects\EmployeeManagementService\bin\Debug\netcoreapp2.1\EmployeeManagementService.dll
+D:\Projects\VisualStudioProjects\EmployeeManagementService\bin\Debug\netcoreapp2.1\EmployeeManagementService.pdb
+D:\Projects\VisualStudioProjects\EmployeeManagementService\obj\Debug\netcoreapp2.1\EmployeeManagementService.csproj.CoreCompileInputs.cache
+D:\Projects\VisualStudioProjects\EmployeeManagementService\obj\Debug\netcoreapp2.1\EmployeeManagementService.RazorAssemblyInfo.cache
+D:\Projects\VisualStudioProjects\EmployeeManagementService\obj\Debug\netcoreapp2.1\EmployeeManagementService.RazorAssemblyInfo.cs
+D:\Projects\VisualStudioProjects\EmployeeManagementService\obj\Debug\netcoreapp2.1\EmployeeManagementService.AssemblyInfoInputs.cache
+D:\Projects\VisualStudioProjects\EmployeeManagementService\obj\Debug\netcoreapp2.1\EmployeeManagementService.AssemblyInfo.cs
+D:\Projects\VisualStudioProjects\EmployeeManagementService\obj\Debug\netcoreapp2.1\EmployeeManagementService.RazorTargetAssemblyInfo.cache
+D:\Projects\VisualStudioProjects\EmployeeManagementService\obj\Debug\netcoreapp2.1\EmployeeManagementService.dll
+D:\Projects\VisualStudioProjects\EmployeeManagementService\obj\Debug\netcoreapp2.1\EmployeeManagementService.pdb
+D:\Projects\VisualStudioProjects\EmployeeManagementService\obj\Debug\netcoreapp2.1\EmployeeManagementService.csprojAssemblyReference.cache
